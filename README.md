@@ -8,11 +8,13 @@ Soy un apasionado por la tecnología y el desarrollo de software. Actualmente, m
 Además, estoy expandiendo mis horizontes como **Junior en Ciberseguridad y Redes**, así como en el fascinante mundo de la **Inteligencia Artificial**, buscando siempre integrar la seguridad y la innovación en cada proyecto. ¡Me encanta aprender nuevas tecnologías y aportar valor trabajando en equipo!
 <img src="https://media.giphy.com/media/hvRJCLzz8CZTq/giphy.gif" width="28">
 
+
+---
+<img src="https://media.giphy.com/media/hvRJCLzz8CZTq/giphy.gif" width="28">
+
 <p align="center">
   <img src="programador.png" alt="Alessandro programando" width="400"/>
 </p>
----
-
 ### 🛠️ Sobre mí
 - 🛠️ **Actualmente trabajando en:** Módulos de gestión para veterinarias y sistemas e-commerce.
 - 📚 **Aprendiendo:** Arquitectura de microservicios y despliegue en la nube.
