@@ -1,6 +1,6 @@
-# ¡Hola! Soy Alessandro 👋 
+# ¡Hola! Soy Alessandro :D
 
-### 🚀 Junior Full-Stack Developer | Ciberseguridad | IA
+###  Junior Full-Stack Developer | Ciberseguridad | IA
 **Estudiante de Ingeniería de Sistemas e Informática**
 
 Soy un apasionado por la tecnología y el desarrollo de software. Actualmente, me desempeño como **Junior Full-Stack Developer**, enfocado en crear soluciones robustas con **Spring Boot** y experiencias de usuario dinámicas con **React**. 
