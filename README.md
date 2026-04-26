@@ -33,7 +33,7 @@ Además, estoy expandiendo mis horizontes como **Junior en Ciberseguridad y Rede
 
 ---
 
-### 📊 Estadísticas de GitHub
+###  Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luisllac7-code&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Alessandro" height="180" />
