@@ -10,11 +10,7 @@ Además, estoy expandiendo mis horizontes como **Junior en Ciberseguridad y Rede
 
 
 ---
-<img src="https://media.giphy.com/media/hvRJCLzz8CZTq/giphy.gif" width="28">
 
-<p align="center">
-  <img src="programador.png" alt="Alessandro programando" width="400"/>
-</p>
 ### 🛠️ Sobre mí
 - 🛠️ **Actualmente trabajando en:** Módulos de gestión para veterinarias y sistemas e-commerce.
 - 📚 **Aprendiendo:** Arquitectura de microservicios y despliegue en la nube.
