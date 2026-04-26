@@ -1,6 +1,9 @@
 # ¡Hola! Soy Alessandro 👋 
 
-### 🚀 Junior Full-Stack Developer | Estudiante de Ingeniería de Sistemas
+### 🚀 Junior Full-Stack Developer
+### 🚀 Junior en Ciberseguridad y redes
+### 🚀 Junior en IA
+| Estudiante de Ingeniería de Sistemas
 
 Soy un apasionado por el desarrollo de software, enfocado actualmente en crear soluciones robustas con **Spring Boot** y experiencias de usuario dinámicas con **React**. ¡Me encanta aprender nuevas tecnologías y trabajar en equipo!
 
@@ -33,7 +36,8 @@ Soy un apasionado por el desarrollo de software, enfocado actualmente en crear s
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight" alt="Stats de Alessandro" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luisllac7-code
+&show_icons=true&theme=tokyonight" alt="Stats de Alessandro" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
@@ -41,5 +45,5 @@ Soy un apasionado por el desarrollo de software, enfocado actualmente en crear s
 
 ### 📫 Contacto
 <p align="left">
-<a href="https://linkedin.com/in/TU_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/TU_LINKEDIN](https://www.linkedin.com/in/luis-alessandro-llacsahuanga-aguilar-bb13b62bb/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
