@@ -1,7 +1,5 @@
-# ¡Hola! Soy Alessandro <img src="https://media.giphy.com/media/hvRJCLzz8CZTq/giphy.gif" width="28">
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Alessandro%20Dev&fontSize=70&animation=fadeIn" />
-</p>
+# ¡Hola! Soy Alessandro 
+
 ###  Junior Full-Stack Developer | Ciberseguridad | IA
 **Estudiante de Ingeniería de Sistemas e Informática**
 
