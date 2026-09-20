@@ -10,7 +10,6 @@
   <a href="https://www.linkedin.com/in/luis-alessandro-llacsahuanga-aguilar-bb13b62bb/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=luisllac7-code&style=for-the-badge&color=00F5D4&label=VISITAS" alt="visitas"/>
 </p>
 
 ---
