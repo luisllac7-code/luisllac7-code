@@ -10,25 +10,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=luisllac7-code&style=for-the-badge&color=00F5D4&label=VISITAS" alt="visitas"/>
 </p>
-<pre align="center">
-      .-""""""-.
-     /          \
-    |  ^      ^  |        &lt;code&gt;
-    |     __     |         while (alive) {
-    |    (__)    |           code();
-     \    --    /            debug();
-      '-.____.-'              learn();
-       /|    |\               secure();
-      / |    | \             }
-     /  |____|  \          &lt;/code&gt;
-    /_____/\_____\
-   /  [01000011]  \
-  /__________________\
-</pre>
- 
-<p align="center"><i>console.log("Alessandro escribiendo el futuro, una línea a la vez 👨‍💻");</i></p>
----
- 
+
 ### 🚀 Sobre mí
  
 Desarrollador Full-Stack enfocado en construir soluciones robustas con **Spring Boot** en el backend y experiencias dinámicas con **React** en el frontend. Complemento mi perfil técnico con conocimientos en **ciberseguridad y redes**, buscando siempre integrar seguridad e innovación en cada proyecto que desarrollo.
