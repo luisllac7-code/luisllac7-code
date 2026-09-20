@@ -78,3 +78,4 @@ Desarrollador Full-Stack enfocado en construir soluciones robustas con **Spring 
   <i>💡 Abierto a colaborar en proyectos de desarrollo full-stack, ciberseguridad e IA.</i>
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:0A66C2&height=100&section=footer"/>
+---
