@@ -52,7 +52,6 @@ Desarrollador Full-Stack enfocado en construir soluciones robustas con **Spring 
 <p align="center">
   <img src="https://raw.githubusercontent.com/luisllac7-code/luisllac7-code/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 </p>
-> ⚙️ **Nota:** esta animación se genera automáticamente con una GitHub Action. Si aún no aparece en tu perfil, más abajo te dejo el paso a paso para activarla (toma 2 minutos).
  
 ---
  
