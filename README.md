@@ -13,7 +13,7 @@
 
 ### 🚀 Sobre mí
  
-Desarrollador Full-Stack enfocado en construir soluciones robustas con **Spring Boot** en el backend y experiencias dinámicas con **React** en el frontend. Complemento mi perfil técnico con conocimientos en **ciberseguridad y redes**, buscando siempre integrar seguridad e innovación en cada proyecto que desarrollo.
+Desarrollador Full-Stack enfocado en construir soluciones robustas con **Spring Boot** en el backend y experiencias dinámicas con **React** en el frontend. Complemento mi perfil técnico con conocimientos en **ciberseguridad y redes**, buscando siempre integrar seguridad e innovación en cada proyecto que desarrollo. Asimismo me interesa profundamente la  **Ciencia de datos** como herramienta clave para la toma de decisiones inteligentes.
  
 - 🔭 **Trabajando actualmente en:** módulos de gestión para veterinarias y sistemas e-commerce.
 - 📚 **Aprendiendo:** arquitectura de microservicios y despliegue en la nube.
